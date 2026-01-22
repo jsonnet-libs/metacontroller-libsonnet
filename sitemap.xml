@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jsonnet-libs.github.io/metacontroller-libsonnet/</loc>
+         <lastmod>2026-01-22</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/metacontroller-libsonnet/4.12/</loc>
+         <lastmod>2026-01-22</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/metacontroller-libsonnet/4.12/metacontroller/</loc>
+         <lastmod>2026-01-22</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/metacontroller-libsonnet/4.12/metacontroller/v1alpha1/</loc>
+         <lastmod>2026-01-22</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/metacontroller-libsonnet/4.12/metacontroller/v1alpha1/compositeController/</loc>
+         <lastmod>2026-01-22</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/metacontroller-libsonnet/4.12/metacontroller/v1alpha1/controllerRevision/</loc>
+         <lastmod>2026-01-22</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/metacontroller-libsonnet/4.12/metacontroller/v1alpha1/decoratorController/</loc>
+         <lastmod>2026-01-22</lastmod>
+    </url>
+</urlset>
